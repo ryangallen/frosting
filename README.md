@@ -23,4 +23,4 @@ Extensions for [Cookiecutter](https://github.com/cookiecutter/cookiecutter)!
 
 ---
 
-Frosting [image]https://unsplash.com/photos/5iT21WuxDoY courtesy of [Project 290](https://unsplash.com/@project290) / [Unsplash](https://unsplash.com/license)
+[Frosting image](https://unsplash.com/photos/5iT21WuxDoY) courtesy of [Project 290](https://unsplash.com/@project290) / [Unsplash](https://unsplash.com/license)
